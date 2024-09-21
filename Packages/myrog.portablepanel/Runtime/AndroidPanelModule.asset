@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: AndroidPanelModule
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: d934a01d057aa214c832458f807b8003,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: e9dc8b048cdc915459ac4dfb280f1a7f,
     type: 2}
   udonAssembly: 
   assemblyError: 
@@ -62,7 +62,7 @@ MonoBehaviour:
       Data: 3|System.RuntimeType, mscorlib
     - Name: 
       Entry: 1
-      Data: myro.PortablePanel, Assembly-CSharp
+      Data: myro.PortablePanel, myrog.portablepanel
     - Name: 
       Entry: 8
       Data: 
