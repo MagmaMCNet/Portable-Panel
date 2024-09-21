@@ -29,7 +29,7 @@ Once the installation completed, make sure to read about all the possible Settin
 
 ### Easy installation
 
-In the folder `Assets/Myorp/PortablePanel`, you'll find two prefabs :
+ In the folder `Packages/MyroG - Portable Panel`, you'll find two prefabs :
 - `PortablePanel` is a version that doesn't have a VRCPickup component, it can still be grabbed.
 - `ThrowablePanel` is a version that uses a VRCPickup component, it can be thrown and dissintegrates when the panel gets too far away.
 
